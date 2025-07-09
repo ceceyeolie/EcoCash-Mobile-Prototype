@@ -24,7 +24,7 @@ Meningkatkan kesadaran masyarakat dalam mendaur ulang sampah dengan menghadirkan
 
 ## 👤 Persona Pengguna (Contoh)
 
-- **Nama**: Ani Apri Ani  
+- **Nama**: Ani Apriani  
 - **Usia**: 48 Tahun  
 - **Profesi**: Ibu Rumah Tangga, tinggal di Bandar Lampung  
 - **Kebutuhan**: Aplikasi praktis untuk tukar sampah dari rumah  
