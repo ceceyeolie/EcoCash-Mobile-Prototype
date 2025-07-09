@@ -1,0 +1,24 @@
+EcoCash UI/UX Design - Figma Prototype
+
+Link prototipe:
+https://www.figma.com/proto/FdOPhl8ftvpn7wkGhPUV1K/EcoCash?node-id=4401-669&t=0iNMFMcXRXbAYZcU-1
+
+Keterangan:
+Link ini berisi desain antarmuka pengguna (UI/UX) aplikasi EcoCash untuk platform mobile. 
+Prototipe mencakup halaman login, dashboard pengguna, fitur tukar sampah, dan informasi TPS terdekat.
+
+
+Link design file:
+https://www.figma.com/design/FdOPhl8ftvpn7wkGhPUV1K/EcoCash?node-id=4401-669&t=6Ym2ulC3zpnQDqbN-1
+
+Keterangan:
+Link ini mengarah ke tampilan Design File Figma (bukan prototipe). File ini berisi rancangan antarmuka pengguna (UI) untuk aplikasi mobile EcoCash.
+
+Di dalamnya mencakup:
+- Tampilan login & registrasi
+- Dashboard pengguna
+- Fitur pengkategorian dan penukaran sampah
+- Peta lokasi TPS
+- Integrasi e-wallet
+
+Gunakan link ini untuk melihat struktur desain atau melakukan kolaborasi desain. Untuk versi interaktif prototipe (klik & navigasi antar halaman), gunakan link khusus prototipe dari Figma.
